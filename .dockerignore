@@ -1,0 +1,8 @@
+.git
+.venv
+.vscode
+.mypy_cache
+.pytest_cache
+python
+__pycache__
+
