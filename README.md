@@ -2,6 +2,7 @@
 
 Jareth is a simple chatbot which runs in AWS lambda and responds to Twilio webhooks.
 Once installed and configured, it will respond to SMS messages on the Twilio number and only understands the classic, "You remind me of the babe" conversation from the movie Labrynth.
+https://youtu.be/FfccgkG6Og8
 
 To get started, set everything up then text "you remind me of the babe" to Jareth's phone number to begin your conversation.
 
